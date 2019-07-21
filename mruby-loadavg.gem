@@ -1,0 +1,7 @@
+name: mruby-loadavg
+description: Loadavg class
+author: Y.Suzuki
+website: https://github.com/ys3128/mruby-loadavg
+protocol: git
+repository: https://github.com/ys3128/mruby-loadavg.git
+license: MIT
